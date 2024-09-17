@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 """
 ATENCAO!
-as cores na simulacao referense a:
+as cores na simulação se referem a:
 verde:      saudavel
 azul:       imune
 vermelho:   doente
